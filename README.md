@@ -1,5 +1,5 @@
 # YUMI-THE-CHATBOT
-# 🤖 Yumi – Your AI Chat Companion *(Work In Progress)*
+# 🤖 Yumi – My AI Chat Companion *(Work In Progress)*
 
 **Yumi** is my current project – a smart, warm, and personalized AI chatbot built with **JavaScript frontend**, **Spring Boot backend**, and powered by **Google's Gemini API**.  
 She’s still a work in progress 🛠️ — but I’m building her with care, love, and a bit of caffeine ☕💖
